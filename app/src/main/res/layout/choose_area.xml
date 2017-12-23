@@ -21,7 +21,8 @@
             android:id="@+id/back_button"
             android:layout_marginLeft="10dp"
             android:layout_alignParentLeft="true"
-            android:layout_centerVertical="true"/>
+            android:layout_centerVertical="true"
+            android:background="@drawable/ic_reply_black_36dp"/>
     </RelativeLayout>
     <ListView
         android:id="@+id/list_view"
